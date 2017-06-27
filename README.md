@@ -1,2 +1,2 @@
-# hello
-To check out how to use git
+# OK! 
+This is to check out how to use git. 
